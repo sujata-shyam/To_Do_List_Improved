@@ -7,3 +7,5 @@ To-Do List project where a user can create, update, delete and also search for a
 3. Right Swipe Deletes the item
 4. Long Press opens the item as a description where a note can be added
 5. Tap on the item makes it checked and it moves to the end of the list, is grayed out 
+
+YouTube Link for Demo: https://youtu.be/-5teUPJWp98
